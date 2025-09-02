@@ -1,0 +1,25 @@
+# Core scientific and ML libraries
+numpy
+scipy
+pillow
+matplotlib
+scikit-image
+scikit-learn
+opencv-python
+imgaug
+imageio
+networkx
+shapely
+
+# Deep learning
+tensorflow
+keras
+
+# Google Colab (optional, for colab usage)
+google-colab
+
+# Other
+shutil
+zipfile
+random
+os
